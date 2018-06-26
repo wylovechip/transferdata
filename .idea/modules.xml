@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\Android\transferdata-master\transferdata-master\transferdata.iml" filepath="F:\Android\transferdata-master\transferdata-master\transferdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transferdata-master.iml" filepath="$PROJECT_DIR$/transferdata-master.iml" />
+    </modules>
+  </component>
+</project>
